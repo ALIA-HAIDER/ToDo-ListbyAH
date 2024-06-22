@@ -92,18 +92,9 @@ This component renders the header of the application.
 - `Home.css`: Styles for the Home component.
 - `Header.css`: Styles for the Header component.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
+- 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [your-email@example.com].
+If you have any questions or suggestions, feel free to reach out to me at [aliahaider149@gmial.com].
 
----
-
-**Note:** Replace the placeholder text (e.g., `yourusername`, `your-email@example.com`) with your actual GitHub username and contact email before uploading the README to GitHub.
+--
